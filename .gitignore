@@ -37,6 +37,9 @@
 *.filters
 *.lastbuildstate
 *.user
+*.idb
+*.recipe
 
 #Log
 *.tlog
+*.log
