@@ -44,3 +44,12 @@
 #Log
 *.tlog
 *.log
+
+#DatabaseWrapper
+DatabaseWrapper/DatabaseWrapper/bin/*
+DatabaseWrapper/DatabaseWrapper/obj/*
+
+#APIServer
+DatabaseWrapper/APIServer/bin/*
+DatabaseWrapper/APIServer/obj/*
+
