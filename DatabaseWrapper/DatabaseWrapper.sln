@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIServer", "APIServer\APIServer.csproj", "{87FB7B48-4D80-4BC8-A20B-C021DC8551E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseWrapper", "DatabaseWrapper\DatabaseWrapper.csproj", "{CEC1FE52-3B3A-49C0-B1EA-360889F76D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FB7B48-4D80-4BC8-A20B-C021DC8551E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FB7B48-4D80-4BC8-A20B-C021DC8551E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FB7B48-4D80-4BC8-A20B-C021DC8551E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FB7B48-4D80-4BC8-A20B-C021DC8551E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC1FE52-3B3A-49C0-B1EA-360889F76D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC1FE52-3B3A-49C0-B1EA-360889F76D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC1FE52-3B3A-49C0-B1EA-360889F76D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC1FE52-3B3A-49C0-B1EA-360889F76D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADCEE40-C018-41D6-BFD8-D4DE31D7A37D}
+	EndGlobalSection
+EndGlobal
